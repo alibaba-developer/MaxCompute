@@ -6,9 +6,7 @@
 
 11月24日，MaxCompute杭州线下Meetup在未来城海创园圆满举行。主题围绕不同行业独角兽企业如何基于MaxCompute搭建稳定、安全、可扩展、智能化的数据中台展开。
 
-来自众安保险、亲宝宝、中金易云的大数据负责人以及蚂蚁金服的数据技术专家为现场以及线上的企业和开发者们带来了精彩细致的分享。
-
-<a href="https://yq.aliyun.com/live/643?spm=a2c4e.11153940.blogcont673527.15.185832c41SE9Ka">活动视频回看>></a>
+来自众安保险、亲宝宝、中金易云的大数据负责人以及蚂蚁金服的数据技术专家为现场以及线上的企业和开发者们带来了精彩细致的分享。<a href="https://yq.aliyun.com/live/643?spm=a2c4e.11153940.blogcont673527.15.185832c41SE9Ka">活动视频回看>></a>
 <div style="text-align:center" align="center">
 <img src="/images/干货集锦1.png" align="center" /></br>
 <strong>《众安保险数据平台实践分享》 陈志远 众安保险数据平台架构师</strong>
