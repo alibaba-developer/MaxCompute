@@ -16,8 +16,7 @@
 
 
 
-众安保险作为国内第一家互联网保险公司，也是最早上云的保险公司，多年的云服务技术架构过程中积累了大量实践经验。本次活动中，众安保险数据平台架构师陈志远着重介绍众安保险大数据平台架构，血缘分析与应用，数据分发审计平台等基于阿里云MaxCompute的最佳实践。
-<a href="https://yq.aliyun.com/download/3107?spm=a2c4e.11153940.blogcont673527.16.185832c4LWl9hb">分享资料下载>></a>
+众安保险作为国内第一家互联网保险公司，也是最早上云的保险公司，多年的云服务技术架构过程中积累了大量实践经验。本次活动中，众安保险数据平台架构师陈志远着重介绍众安保险大数据平台架构，血缘分析与应用，数据分发审计平台等基于阿里云MaxCompute的最佳实践。<a href="https://yq.aliyun.com/download/3107?spm=a2c4e.11153940.blogcont673527.16.185832c4LWl9hb">分享资料下载>></a>
 
 <div style="text-align:center" align="center">
 <img src="/images/干货集锦2.png" align="center" /></br>
