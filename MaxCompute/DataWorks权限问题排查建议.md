@@ -1,4 +1,4 @@
-# MaxCompute/DataWorks权限问题排查建议
+# DataWorks权限问题排查建议
 MaxCompute：计算引擎
 MaxCompute底层计算引擎有自己的安全权限体系，包括ACL、Policy授权体系。具体可以了解：https://help.aliyun.com/document_detail/27924.html
 
